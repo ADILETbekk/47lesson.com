@@ -1,5 +1,5 @@
    //function:add to busket//
-   console.log('goood')
+   console.log('good github byby!!!');
 let class_name = document.getElementsByClassName("inbag");
 let myFuction = function(evt){
     evt.preventDefault();
